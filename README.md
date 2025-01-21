@@ -17,4 +17,6 @@ Module 00 => Python - 0 - Starting
         - Implement and call a function
         - Recognize object's type
         - if / elif / else syntax
+    - ex03 :
+        - NoneType
     
