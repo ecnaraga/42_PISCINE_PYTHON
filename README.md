@@ -9,6 +9,12 @@ Rules
 
 Module 00 => Python - 0 - Starting
     
-    - ex00 : To discover Python Data Structure such as list, dictionary, set and tuple
-    - ex01 : To manipulate time library and to format float number and date time in strings
+    - ex00 : 
+        - Discover Python Data Structure such as list, dictionary, set and tuple
+    - ex01 :
+        - Manipulate time library and to format float number and date time in strings
+    - ex02 :
+        - Implement and call a function
+        - Recognize object's type
+        - if / elif / else syntax
     
