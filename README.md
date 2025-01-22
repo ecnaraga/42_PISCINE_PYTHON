@@ -4,8 +4,12 @@ Goal
 
     - Discover and learn python language
 
-Rules
-
+Rules applied from Module 00 ex05 :
+    - No code in global scope
+    - Obligation to use a main in each program
+    - Must catch all exceptions raised
+    - Add documentation
+    - Code at the norm flake8
 
 Module 00 => Python - 0 - Starting
     
