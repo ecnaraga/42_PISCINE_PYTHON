@@ -56,6 +56,7 @@ def main() :
         print_type_character(str)
     except Exception as e :
         return
+
 if __name__ == "__main__":
     main()
 

@@ -29,4 +29,7 @@ Module 00 => Python - 0 - Starting
     - ex05 :
         - Main function syntax
         - function.__doc__
+    - ex06 :
+        - str.filter function
+        - List comprehension
 
