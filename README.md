@@ -26,4 +26,7 @@ Module 00 => Python - 0 - Starting
     - ex04 :
         - Manage argument in script
         - try / except
-    
+    - ex05 :
+        - Main function syntax
+        - function.__doc__
+
