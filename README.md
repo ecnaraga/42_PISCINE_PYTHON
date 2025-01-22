@@ -19,4 +19,7 @@ Module 00 => Python - 0 - Starting
         - if / elif / else syntax
     - ex03 :
         - NoneType
+    - ex04 :
+        - Manage argument in script
+        - try / except
     
