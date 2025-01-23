@@ -11,7 +11,7 @@
 - Add documentation
 - Code at the norm flake8
 
-# Module 00 => Python - 0 - Starting
+# Module 00 => Python - 0 - Starting - Notion
     
 - ex00 : 
     - Discover Python Data Structure such as list, dictionary, set and tuple
@@ -33,6 +33,10 @@
     - str.filter function
     - List comprehension
     - lambda expression
+- ex07 :
+    - Python class
+    - Use a dictionnary
+
 
 # Install flake8 norm :
 
