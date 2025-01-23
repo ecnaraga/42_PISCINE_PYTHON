@@ -18,4 +18,5 @@ def ft_filter(f, objs: any) -> list:
         Object of the same type than the one in argument.
     '''
     objs = [x for x in objs if f(x)]
+
     return objs
