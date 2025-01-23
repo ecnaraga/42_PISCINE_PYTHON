@@ -1,6 +1,6 @@
 from time import strftime, localtime, time
-from datetime import timedelta
- 
+
+
 time_curr = time()
 print("Seconds since January 1, 1970: {0:,.4f} or {0:.2e} in scientific notation" .format(time_curr))
 print(strftime("%b %d %Y", localtime()))
