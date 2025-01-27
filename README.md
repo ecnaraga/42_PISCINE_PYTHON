@@ -11,7 +11,7 @@
 - Add documentation
 - Code at the norm flake8
 
-# Module 00 => Python - 0 - Starting - Notion
+# Module 00 => Python - 0 - Starting - Notions
     
 - ex00 : 
     - Discover Python Data Structure such as list, dictionary, set and tuple
@@ -36,6 +36,8 @@
 - ex07 :
     - Python class
     - Use a dictionnary
+- ex08 :
+    - yield
 
 
 # Install flake8 norm :
