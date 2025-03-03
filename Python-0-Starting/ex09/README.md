@@ -6,16 +6,16 @@
 
  Build  with Python3
  ```bash
- python3 -m build
+ $ python3 -m build
  ```
 
  Installation using pip
  ```bash
- pip install ./dist/ft_package-0.0.1-py3-none-any.whl
+ $ pip install ./dist/ft_package-0.0.1-py3-none-any.whl
  ```
  or
  ```bash
- pip install ./dist/ft_package-0.0.1.tar.gz
+ $ pip install ./dist/ft_package-0.0.1.tar.gz
  ```
 
  ## Usage - Exemple
@@ -30,7 +30,7 @@
  ## Uninstallation
 
  ```bash
- pip3 uninstall ft_package && rm -rf ./dist && rm -rf ./dist
+ $ pip3 uninstall ft_package && rm -rf ./dist && rm -rf ./dist
  ```
 
  ## License

@@ -45,20 +45,20 @@
 
 To create virtual environment :
 ```bash
-python -m venv ~
+$ python -m venv ~
 ```
 
 To activate virtual environment :
 ```bash
-source ~/bin/activate
+$ source ~/bin/activate
 ```
 
 To install flake8 in the virtual environmenet :
 ```bash
-pip install flake8
+$ pip install flake8
 ```
 
 To check norm with flake8 - Do it in the virtual environment:
 ```bash
-flake 8 <file_name>
+$ flake 8 <file_name>
 ```
