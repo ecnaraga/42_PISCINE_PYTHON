@@ -1,16 +1,19 @@
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-[project]
-name="ft_package"
-version ="0.0.1"
-description = "A sample test package"
+[build-system] # allow to declare which build backend you use and which other dependencies are needed to build the project.
+requires = ["hatchling"] # List of dependencies needed
+build-backend = "hatchling.build" # Specifie the build backend to be used
+[project] # Characteristic of the package
+name="ft_package" # Package's distribution name
+version ="0.0.1" # Package's version
+description = "A sample test package"  # Package's description
 authors= [
-    {name="galambey"},
-    {email="galambey@42.fr"},
+    # {name="galambey", email="galambey@42.fr"}, # 1 Author with a name and an email
+    {name="galambey"}, # One author with the name
+    {email="galambey@42.fr"},  # One different author with the email
     ]
+requires-python = ">=3.8" # Version of python required at least
 license = "MIT"
-license-files = ["LICEN[CS]E*"]
+license-files = ["LICEN[CS]E*"] # Name of the LICENSE 's files
+readme = "README.md"
 
-[project.urls]
+[project.urls] # Extra links
 Homepage = "https://github.com/galambey/ft_package"

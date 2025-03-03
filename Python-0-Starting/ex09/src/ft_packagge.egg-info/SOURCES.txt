@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/ft_package/__init__.py
-src/ft_package/count_in_list.py
-src/ft_packagge.egg-info/PKG-INFO
-src/ft_packagge.egg-info/SOURCES.txt
-src/ft_packagge.egg-info/dependency_links.txt
-src/ft_packagge.egg-info/top_level.txt
