@@ -38,7 +38,8 @@
     - Use a dictionnary
 ### ex08 :
     - yield
-
+### ex09 :
+    - Create a package, install it and use it
 
 ## Install flake8 norm :
 
