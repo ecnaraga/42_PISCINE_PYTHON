@@ -4,6 +4,8 @@
     - Comprehension List
     - Numpy lib
 ### ex01 :
+    - Slicing method
+    - Numpy lib
 ### ex02 :
 ### ex03 :
 ### ex04 :
