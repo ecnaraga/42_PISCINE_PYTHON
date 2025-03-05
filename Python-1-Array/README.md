@@ -10,5 +10,7 @@
     - Manipulate images
     - PIL library
 ### ex03 :
+    - Slice image and gray shape image
+    - Matplotlib library
 ### ex04 :
 ### ex05 :
