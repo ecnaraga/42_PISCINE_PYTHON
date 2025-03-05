@@ -14,6 +14,7 @@ def ft_load(path: str) -> np.array:
     try:
         image = Image.open(path)
         array = np.asarray(image)
+        image.close()
         print("The shape of the image is :", np.shape(array))
         return array
     except OSError:
