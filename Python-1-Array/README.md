@@ -16,3 +16,4 @@
     - Rotate image
     - Make a transpose method
 ### ex05 :
+    - Transform image's colors
