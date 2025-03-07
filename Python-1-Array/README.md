@@ -13,4 +13,6 @@
     - Slice image and gray shape image
     - Matplotlib library
 ### ex04 :
+    - Rotate image
+    - Make a transpose method
 ### ex05 :

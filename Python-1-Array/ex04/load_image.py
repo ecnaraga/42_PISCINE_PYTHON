@@ -13,7 +13,7 @@ def ft_load(path: str) -> np.array:
         return
     try:
         image = Image.open(path)
-        array = np.asarray(image)
+        array = np.asarray(image).copy()
         image.close()
         print("The shape of the image is :", np.shape(array))
         return array
