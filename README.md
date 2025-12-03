@@ -32,3 +32,8 @@ To check norm with flake8 - Do it in the virtual environment:
 ```bash
 $ flake 8 <file_name>
 ```
+
+## Print __doc__ 's functions in bash :
+```bash
+$ python3 -m pydoc filename.function
+``` 
