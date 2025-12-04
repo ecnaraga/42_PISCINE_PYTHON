@@ -1,6 +1,8 @@
 # List/array Manipulation:          https://www.datacamp.com/tutorial/python-slice?utm_cid=19589720821&utm_aid=157156375191&utm_campaign=230119_1-ps-other~dsa~tofu_2-b2c_3-emea_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&utm_loc=9198704-&utm_mtd=-c&utm_kw=&utm_source=google&utm_medium=paid_search&utm_content=ps-other~emea-en~dsa~tofu~tutorial~python&gad_source=1&gad_campaignid=19589720821&gclid=CjwKCAiA3L_JBhAlEiwAlcWO59jsjOxOp5qX3ch7eJmU9ojj6DEdxMR--KO4KilIU-G9rzfqb7EhuBoCmlIQAvD_BwE
 ma_liste = [1, 2, 3, 4, 5]
+ma_liste[1] # => premier element
 ma_liste[-1] # => dernier element
+ma_liste[1:] # => tous sauf le premier element
 ma_liste[:-1] # => tous sauf le dernier element
 ma_liste[::-1] # => inverse la liste (premier element devient le dernier, ...)
 ma_liste[::2] # => 1 element sur 2 en commencant a l index 0 (maliste devient [1, 3, 5])
