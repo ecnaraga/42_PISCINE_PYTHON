@@ -101,24 +101,7 @@ def die(self) => Method that change to False the instance variable is_alive
         """
         self.is_alive = False
 
-    # method decorator => When a method has this decorator, it allow us to
-    # wrap the code of the method called in a logic that would be coded each
-    # time without the decorator and that can be the same for multiple methods
-    def creation_character(func):
-        """
-Decorator function that call the method assorted with te decorator and
-return its result
-:param func: method that posses the decorator @creation_character
-        """
-        def wrapper(*args, **kwargs):
-            """
-Wrapper's decorator of @creation_character
-            """
-            res = func(*args, **kwargs)
-            return res
-        return wrapper
-
-    @creation_character
+    @staticmethod
     def create_lannister(name: str, is_alive=True) -> object:
         """
 Method that return a new instance of Lannister
